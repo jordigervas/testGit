@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 ADEU
+=======
+
+>>>>>>> refs/remotes/origin/master
 </body>
 </html>
